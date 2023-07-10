@@ -10,7 +10,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Slide
 
-- https://github.com/kaopanboonyuen/CS101/blob/main/slide/xxx.pdf
+- Morning Survey: XX
+- Lecture Slides: https://github.com/kaopanboonyuen/CS101/blob/main/slide/xxx.pdf
 ### Code
 
 - Basic Python: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPython.ipynb)
