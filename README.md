@@ -18,7 +18,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Assignment
 
-- Assignment1 (Python): [![Open In PDF](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/img/github-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/mltalks/blob/main/code/Dog_Breed_Identification_Sol_(TF2).ipynb)
+- Assignment1 (Python): https://github.com/kaopanboonyuen/CS101/blob/main/assignment/XXX.pdf
 
 ![](https://github.com/kaopanboonyuen/CS101/raw/main/img/python_coding.gif)
 
