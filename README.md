@@ -10,15 +10,15 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Slide
 
-- Morning Survey: XX
-- Lecture Slides: https://github.com/kaopanboonyuen/CS101/blob/main/slide/xxx.pdf
+- Morning Survey: https://forms.gle/iJmQQQnqLJ68dbcn8
+- Lecture Slides: https://github.com/kaopanboonyuen/CS101/blob/main/slide/CS101_BasicPython.pdf
 ### Code
 
 - Basic Python: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/GISTDA2023/blob/main/code/BasicPython.ipynb)
 
 ### Assignment
 
-- Assignment1 (XXX): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/mltalks/blob/main/code/Dog_Breed_Identification_Sol_(TF2).ipynb)
+- Assignment1 (Python): [![Open In PDF](https://github.com/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/img/github-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/mltalks/blob/main/code/Dog_Breed_Identification_Sol_(TF2).ipynb)
 
 ![](https://github.com/kaopanboonyuen/CS101/raw/main/img/python_coding.gif)
 
