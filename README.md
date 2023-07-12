@@ -18,7 +18,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### Assignment
 
-- Assignment1 (Python): https://github.com/kaopanboonyuen/CS101/blob/main/assignment/XXX.pdf
+- Assignment1 (Python): Updated python assignment will be posted here shortly after each lecture.
 
 ![](https://github.com/kaopanboonyuen/CS101/raw/main/img/python_coding.gif)
 
