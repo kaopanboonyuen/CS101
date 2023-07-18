@@ -28,4 +28,5 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 2. https://cs230.stanford.edu/
 3. https://stanfordpython.com
 4. https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
-5. https://stanford.edu/~schmit/cme193/ 3
+5. https://stanford.edu/~schmit/cme193/
+6. https://www.cp.eng.chula.ac.th/books/python101/
