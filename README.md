@@ -15,7 +15,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 ### Code
 
 - Basic Python (Week 1): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/CS101/blob/main/code/CS101_BasicPython_01_toStudent.ipynb)
-- Basic Python (Week 2): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/CS101/blob/main/code/CS101_BasicPython_01_toStudent.ipynb)
+- Basic Python (Week 2): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/CS101/blob/main/code/CS101_BasicPython_02_toStudent.ipynb)
 ### Assignment
 
 - Updated python assignment will be posted here shortly after each lecture.
