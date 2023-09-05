@@ -1,0 +1,10 @@
+
+
+(month, item) , cost    <<< mapper 1
+
+(month, item) , sum(cost)  <<< reducer 1
+
+item, (month, sum(cost))  <<< mapper 2
+
+item, Yes/No <<< reducer 2
+
