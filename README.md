@@ -21,6 +21,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/disaster_text.csv
 - Med Resource (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/med_resources_data.csv
+
 ### Assignment
 
 - Updated python assignment will be posted here shortly after each lecture.
