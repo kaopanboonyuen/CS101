@@ -16,6 +16,11 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 - Basic Python (Week 1): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/CS101/blob/main/code/CS101_BasicPython_01_toStudent.ipynb)
 - Basic Python (Week 2): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/CS101/blob/main/code/CS101_BasicPython_02_toStudent.ipynb)
+
+### (Big Data Module) Looker Studio: Business Insights Visualizations
+
+- Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/disaster_text.csv
+- Med Resource (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/med_resources_data.csv
 ### Assignment
 
 - Updated python assignment will be posted here shortly after each lecture.
