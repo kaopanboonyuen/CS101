@@ -19,7 +19,9 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### (Big Data Module) Looker Studio: Business Insights Visualizations
 
-- Lecture Slides: Updated slide will be posted here. 
+- Lecture Slides: https://github.com/kaopanboonyuen/CS101/blob/main/slide/LookerStudio_2023.pdf
+
+- Looker Studio: https://lookerstudio.google.com/overview
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/disaster_text.csv
 - Med Resource (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/med_resources_data.csv
 
