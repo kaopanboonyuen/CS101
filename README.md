@@ -25,6 +25,17 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/disaster_text.csv
 - Med Resource (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/med_resources_data.csv
 
+(Mini Project) Looker Studio: Business Insights Visualizations
+
+(1) Locate a publicly available dataset, such as those from Kaggle or UCLA.
+
+- https://www.kaggle.com/datasets
+- https://archive.ics.uci.edu/datasets
+- https://data.go.th/dataset.
+
+(2) Develop a minimum of five inquiry-based questions related to the selected dataset.
+(3) Utilize Google Data Studio to provide visual answers to these questions through data visualization.
+(4) Schedule presentations for Thursday evenings.
 ### (Big Data Module) Machine Learning in Action
 
 - RapidMiner: https://rapidminer.com/platform/ or https://my.rapidminer.com/nexus/account/index.html#downloads
