@@ -34,7 +34,9 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - https://data.go.th/dataset.
 
 (2) Develop a minimum of five inquiry-based questions related to the selected dataset.
+
 (3) Utilize Google Data Studio to provide visual answers to these questions through data visualization.
+
 (4) Schedule presentations for Thursday evenings.
 ### (Big Data Module) Machine Learning in Action
 
