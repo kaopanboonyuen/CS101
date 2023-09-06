@@ -25,6 +25,11 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/disaster_text.csv
 - Med Resource (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/med_resources_data.csv
 
+### (Big Data Module) Machine Learning in Action
+
+- RapidMiner: https://rapidminer.com/platform/ or https://my.rapidminer.com/nexus/account/index.html#downloads
+- Ensure that all participants both download and install Rapid Miner using the provided link before the class next week.
+
 ### Assignment
 
 - Updated python assignment will be posted here shortly after each lecture.
