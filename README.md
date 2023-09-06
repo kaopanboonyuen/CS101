@@ -31,7 +31,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 - https://www.kaggle.com/datasets
 - https://archive.ics.uci.edu/datasets
-- https://data.go.th/dataset.
+- https://data.go.th/dataset
 
 (2) Develop a minimum of five inquiry-based questions related to the selected dataset.
 
