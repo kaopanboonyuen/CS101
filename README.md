@@ -25,7 +25,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/disaster_text.csv
 - Med Resource (Data Set): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/visualize/med_resources_data.csv
 
-### (Mini Project) Looker Studio: Business Insights Visualizations
+### :green_book: (Mini Project) Looker Studio: Business Insights Visualizations
 
 (1) Locate a publicly available dataset, such as those from Kaggle or UCLA.
 
