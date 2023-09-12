@@ -38,7 +38,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 (3) Utilize Google Data Studio to provide visual answers to these questions through data visualization.
 
 (4) Schedule presentations for Thursday evenings.
-### (Big Data Module) Machine Learning in Action
+### (Big Data Module) Machine Learning in Actioin
 
 - RapidMiner: https://rapidminer.com/platform/ or https://my.rapidminer.com/nexus/account/index.html#downloads
 - Ensure that all participants both download and install Rapid Miner using the provided link before the class next week.
