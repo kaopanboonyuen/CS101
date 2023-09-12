@@ -43,9 +43,10 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - RapidMiner: https://rapidminer.com/platform/ or https://my.rapidminer.com/nexus/account/index.html#downloads
 - Ensure that all participants both download and install Rapid Miner using the provided link before the class next week.
 
-### Assignment
-
-- Updated python assignment will be posted here shortly after each lecture.
+- Lecture Slides: https://github.com/kaopanboonyuen/CS101/blob/main/slide/Basic_Machine_Learning_v1.pdf
+- Dataset1 (Pima Indians Diabetes): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/rm/pima-indians-diabetes.csv
+- Dataset2 (Customer Churn Dataset): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/rm/customer_churn_data.csv
+- Dataset3 (Student Grade): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/rm/StudentGrade.csv
 
 ![](https://github.com/kaopanboonyuen/CS101/raw/main/img/python_coding.gif)
 
