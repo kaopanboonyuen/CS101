@@ -48,6 +48,8 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Dataset2 (Customer Churn Dataset): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/rm/customer_churn_data.csv
 - Dataset3 (Student Grade): https://github.com/kaopanboonyuen/CS101/raw/main/dataset/rm/StudentGrade.csv
 
+- (Assignment, StudentGradeDataset): https://docs.google.com/document/d/1foZV_Zu0pSP3rpyS-54nEYAbAadG3By9H7sk7P_vUoU/edit?usp=sharing
+
 ![](https://github.com/kaopanboonyuen/CS101/raw/main/img/python_coding.gif)
 
 ### Reference:
